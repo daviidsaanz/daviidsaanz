@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">👋 ¡Hola! Soy David Sanz Majolero</h1>
 
 <p align="center">
@@ -5,16 +9,22 @@
 </p>
 
 <p align="center">
-  <a href="mailto:davidsanzmajolero@gmail.com"><img src="https://img.shields.io/badge/email-davidsanzmajolero@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/david-sanz-majolero"><img src="https://img.shields.io/badge/LinkedIn-David%20Sanz%20Majolero-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/daviidsaanz"><img src="https://img.shields.io/badge/GitHub-daviidsaanz-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:davidsanzmajolero@gmail.com">
+    <img src="https://img.shields.io/badge/email-davidsanzmajolero@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/david-sanz-majolero">
+    <img src="https://img.shields.io/badge/LinkedIn-David%20Sanz%20Majolero-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/daviidsaanz">
+    <img src="https://img.shields.io/badge/GitHub-daviidsaanz-white?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy desarrollador de software especializado en aplicaciones multiplataforma. Me apasiona crear soluciones técnicas innovadoras, desde videojuegos en Unreal hasta proyectos de inteligencia artificial con ML.NET. Me defino como una persona disciplinada, organizada y orientada al trabajo en equipo.
+🎯 Soy desarrollador de software especializado en aplicaciones multiplataforma. Me apasiona construir soluciones creativas con impacto real, desde videojuegos hasta herramientas con inteligencia artificial. Me defino como alguien disciplinado, organizado y con alta capacidad de trabajo en equipo.
 
 ---
 
@@ -26,11 +36,11 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 
 ### 🏋️ Cofundador — *FitAdvisor*  
 📅 *Ago 2023 - Actualidad*  
-> Codesarrollo de una app para gimnasio integrando **IA** para personalizar la experiencia del usuario.
+> Codesarrollo de una app de gimnasio con integración de **IA** para personalizar la experiencia del usuario.
 
 ### 🌐 Proyecto Internacional — *EUC Syd (Dinamarca)*  
 📅 *Ene 2024 - Nov 2024*  
-> Proyecto de **Machine Learning** utilizando **C#** y **ML.NET** en Sønderborg.
+> Proyecto de **Machine Learning** con **C#** y **ML.NET** en Sønderborg.
 
 ---
 
@@ -67,6 +77,15 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  🚀 ¡Gracias por visitar mi perfil!
+  <img src="https://github-readme-stats.vercel.app/api?username=daviidsaanz&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviidsaanz&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+
+---
+
+<p align="center">
+  ✨ ¡Gracias por visitar mi perfil!  
 </p>
