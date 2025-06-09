@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:davidsanzmajolero@gmail.com"><img src="https://img.shields.io/badge/email-davidsanzmajolero@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/david-sanz-majolero"><img src="https://img.shields.io/badge/LinkedIn-David%20Sanz%20Majolero-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/daviidsaanz"><img src="https://img.shields.io/badge/GitHub-daviidsaanz-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/daviidsaanz"><img src="https://img.shields.io/badge/GitHub-daviidsaanz-white?style=for-the-badge&logo=github&logoColor=181717" /></a>
 </p>
 
 ---
@@ -20,17 +20,17 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 
 ## 💼 Experiencia
 
-### 🎮 Programador de Videojuegos — *Creative Minds*
+### 🎮 Programador de Videojuegos — *Creative Minds*  
 📅 *Sep 2024 - Feb 2025*  
-> Desarrollo con **Unreal Engine**, **C++** y **Blueprints** en prácticas profesionales.
+> Desarrollo con **Unreal Engine**, **C++** y **Blueprints**.
 
-### 🏋️ Cofundador — *FitAdvisor*
+### 🏋️ Cofundador — *FitAdvisor*  
 📅 *Ago 2023 - Actualidad*  
 > Codesarrollo de una app para gimnasio integrando **IA** para personalizar la experiencia del usuario.
 
-### 🌐 Proyecto Internacional — *EUC Syd (Dinamarca)*
+### 🌐 Proyecto Internacional — *EUC Syd (Dinamarca)*  
 📅 *Ene 2024 - Nov 2024*  
-> Proyecto de **Machine Learning** utilizando **C#** y **ML.NET** en Sønderborg (Dinamarca).
+> Proyecto de **Machine Learning** utilizando **C#** y **ML.NET** en Sønderborg.
 
 ---
 
@@ -46,8 +46,8 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 
 <p align="center">
   <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 </p>
 
@@ -69,6 +69,18 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 
 ## ⚡ Extras
 
+### 🧪 Dominio por tecnología
+
+| Tecnología     | Nivel           |
+| -------------- | --------------- |
+| C#             | ██████████ 90%  |
+| Tailwind CSS   | ██████░░░░ 60%  |
+| Next.js        | ██████░░░░ 60%  |
+| TypeScript     | ███░░░░░░░ 30%  |
+| C++            | ███░░░░░░░ 25%  |
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviidsaanz&layout=compact&theme=radical" />
 </p>
@@ -76,5 +88,5 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 ---
 
 <p align="center">
-  🚀 Gracias por visitar mi perfil. ¡Seguimos construyendo!
+  🚀 ¡Gracias por visitar mi perfil!  
 </p>
