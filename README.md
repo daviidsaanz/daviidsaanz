@@ -35,7 +35,7 @@
 > Codesarrollo de una app de gimnasio con integración de **IA** para personalizar la experiencia del usuario.
 
 ### 🌐 Proyecto Internacional — *EUC Syd (Dinamarca)*  
-📅 *Ene 2024 - Nov 2024*  
+📅 *Oct 2024 - Nov 2024*  
 > Proyecto de **Machine Learning** con **C#** y **ML.NET** en Sønderborg.
 
 ---
