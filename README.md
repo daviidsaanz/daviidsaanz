@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">👋 ¡Hola! Soy David Sanz Majolero</h1>
 
 <p align="center">
@@ -75,16 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daviidsaanz&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviidsaanz&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
-
----
 
 <p align="center">
   ✨ ¡Gracias por visitar mi perfil!  
