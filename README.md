@@ -37,6 +37,11 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 ## 🛠 Tecnologías y Herramientas
 
 <p align="center">
+  <!-- Next.js al principio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
+</p>
+
+<p align="center">
   <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -45,9 +50,8 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 </p>
 
 <p align="center">
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <!-- Frameworks y estilos -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 </p>
 
@@ -58,11 +62,11 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 </p>
 
 <p align="center">
-  <!-- Engines y otros -->
+  <!-- Engines y control de versiones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Unreal_Engine_Logo.svg" height="40" alt="Unreal Engine" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Unreal_Engine_Logo_White.png" height="40" alt="Unreal Engine" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub (White)" style="background-color:white; border-radius:4px;" />
 </p>
 
 ---
