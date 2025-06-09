@@ -71,6 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
 
+---
 
 <p align="center">
   ✨ ¡Gracias por visitar mi perfil!  
