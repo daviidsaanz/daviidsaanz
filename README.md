@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:davidsanzmajolero@gmail.com"><img src="https://img.shields.io/badge/email-davidsanzmajolero@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/david-sanz-majolero"><img src="https://img.shields.io/badge/LinkedIn-David%20Sanz%20Majolero-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/daviidsaanz"><img src="https://img.shields.io/badge/GitHub-daviidsaanz-white?style=for-the-badge&logo=github&logoColor=181717" /></a>
+  <a href="https://github.com/daviidsaanz"><img src="https://img.shields.io/badge/GitHub-daviidsaanz-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,8 +46,8 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 
 <p align="center">
   <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 </p>
 
@@ -60,33 +60,13 @@ Soy desarrollador de software especializado en aplicaciones multiplataforma. Me 
 <p align="center">
   <!-- Engines y otros -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Unreal_Engine_Logo.svg" height="40" alt="Unreal Engine" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</p>
-
----
-
-## ⚡ Extras
-
-### 🧪 Dominio por tecnología
-
-| Tecnología     | Nivel           |
-| -------------- | --------------- |
-| C#             | ██████████ 90%  |
-| Tailwind CSS   | ██████░░░░ 60%  |
-| Next.js        | ██████░░░░ 60%  |
-| TypeScript     | ███░░░░░░░ 30%  |
-| C++            | ███░░░░░░░ 25%  |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviidsaanz&layout=compact&theme=radical" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" />
 </p>
 
 ---
 
 <p align="center">
-  🚀 ¡Gracias por visitar mi perfil!  
+  🚀 ¡Gracias por visitar mi perfil!
 </p>
